@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://alejandrocoria.games/projects/colorful_ball/</loc>
+    <loc>https://alejandrocoria.games/projects/Colorful_Ball/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://alejandrocoria.games/es/projects/colorful_ball/"
+                href="https://alejandrocoria.games/es/projects/Colorful_Ball/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://alejandrocoria.games/projects/colorful_ball/"
+                href="https://alejandrocoria.games/projects/Colorful_Ball/"
                 />
   </url>
   
   <url>
-    <loc>https://alejandrocoria.games/projects/p-changer/</loc>
+    <loc>https://alejandrocoria.games/projects/P-Changer/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://alejandrocoria.games/es/projects/p-changer/"
+                href="https://alejandrocoria.games/es/projects/P-Changer/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://alejandrocoria.games/projects/p-changer/"
+                href="https://alejandrocoria.games/projects/P-Changer/"
                 />
   </url>
   
   <url>
-    <loc>https://alejandrocoria.games/projects/autopresetmap/</loc>
+    <loc>https://alejandrocoria.games/projects/AutoPresetMap/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://alejandrocoria.games/es/projects/autopresetmap/"
+                href="https://alejandrocoria.games/es/projects/AutoPresetMap/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://alejandrocoria.games/projects/autopresetmap/"
+                href="https://alejandrocoria.games/projects/AutoPresetMap/"
                 />
   </url>
   
@@ -59,89 +59,89 @@
   </url>
   
   <url>
-    <loc>https://alejandrocoria.games/tags/addon/</loc>
+    <loc>https://alejandrocoria.games/tags/Addon/</loc>
   </url>
   
   <url>
-    <loc>https://alejandrocoria.games/tags/android/</loc>
+    <loc>https://alejandrocoria.games/tags/Android/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://alejandrocoria.games/es/tags/android/"
+                href="https://alejandrocoria.games/es/tags/Android/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://alejandrocoria.games/tags/android/"
+                href="https://alejandrocoria.games/tags/Android/"
                 />
   </url>
   
   <url>
-    <loc>https://alejandrocoria.games/tags/flash/</loc>
+    <loc>https://alejandrocoria.games/tags/Flash/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://alejandrocoria.games/es/tags/flash/"
+                href="https://alejandrocoria.games/es/tags/Flash/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://alejandrocoria.games/tags/flash/"
+                href="https://alejandrocoria.games/tags/Flash/"
                 />
   </url>
   
   <url>
-    <loc>https://alejandrocoria.games/tags/free-software/</loc>
+    <loc>https://alejandrocoria.games/tags/Free-Software/</loc>
   </url>
   
   <url>
-    <loc>https://alejandrocoria.games/tags/godot/</loc>
+    <loc>https://alejandrocoria.games/tags/Godot/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://alejandrocoria.games/es/tags/godot/"
+                href="https://alejandrocoria.games/es/tags/Godot/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://alejandrocoria.games/tags/godot/"
+                href="https://alejandrocoria.games/tags/Godot/"
                 />
   </url>
   
   <url>
-    <loc>https://alejandrocoria.games/tags/haxe/</loc>
+    <loc>https://alejandrocoria.games/tags/Haxe/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://alejandrocoria.games/es/tags/haxe/"
+                href="https://alejandrocoria.games/es/tags/Haxe/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://alejandrocoria.games/tags/haxe/"
+                href="https://alejandrocoria.games/tags/Haxe/"
                 />
   </url>
   
   <url>
-    <loc>https://alejandrocoria.games/tags/java/</loc>
+    <loc>https://alejandrocoria.games/tags/Java/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://alejandrocoria.games/es/tags/java/"
+                href="https://alejandrocoria.games/es/tags/Java/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://alejandrocoria.games/tags/java/"
+                href="https://alejandrocoria.games/tags/Java/"
                 />
   </url>
   
   <url>
-    <loc>https://alejandrocoria.games/tags/map/</loc>
+    <loc>https://alejandrocoria.games/tags/Map/</loc>
   </url>
   
   <url>
-    <loc>https://alejandrocoria.games/tags/minecraft-mod/</loc>
+    <loc>https://alejandrocoria.games/tags/Minecraft-Mod/</loc>
   </url>
   
   <url>
@@ -173,7 +173,7 @@
   </url>
   
   <url>
-    <loc>https://alejandrocoria.games/tags/puzzle/</loc>
+    <loc>https://alejandrocoria.games/tags/Puzzle/</loc>
   </url>
   
   <url>
@@ -205,20 +205,20 @@
   </url>
   
   <url>
-    <loc>https://alejandrocoria.games/tags/videogame/</loc>
+    <loc>https://alejandrocoria.games/tags/Videogame/</loc>
   </url>
   
   <url>
-    <loc>https://alejandrocoria.games/tags/web/</loc>
+    <loc>https://alejandrocoria.games/tags/Web/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://alejandrocoria.games/es/tags/web/"
+                href="https://alejandrocoria.games/es/tags/Web/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://alejandrocoria.games/tags/web/"
+                href="https://alejandrocoria.games/tags/Web/"
                 />
   </url>
   

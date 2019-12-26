@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Android on Alejandro Coria Games</title>
-    <link>https://alejandrocoria.games/es/tags/android/</link>
+    <link>https://alejandrocoria.games/es/tags/Android/</link>
     <description>Recent content in Android on Alejandro Coria Games</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
@@ -10,17 +10,17 @@
     <webMaster>contact@alejandrocoria.games (Alejandro Coria)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     
-        <atom:link href="https://alejandrocoria.games/es/tags/android/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://alejandrocoria.games/es/tags/Android/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>Colorful Ball</title>
-        <link>https://alejandrocoria.games/es/projects/colorful_ball/</link>
+        <link>https://alejandrocoria.games/es/projects/Colorful_Ball/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         <author>contact@alejandrocoria.games (Alejandro Coria)</author>
-        <guid>https://alejandrocoria.games/es/projects/colorful_ball/</guid>
+        <guid>https://alejandrocoria.games/es/projects/Colorful_Ball/</guid>
         <description>Colorful Ball es un puzle que requiere ingenio y habilidad. Controlas una bola que puede cambiar de color. Necesitas el color correcto para poder pasar por las paredes correctas y llegar al siguiente checkpoint. Te encontrarás con torretas que te dispararán a diferentes tiempos y que tendrás que pasar por encima para obtener su color.
 También conseguirás diferentes habilidades que te serán útiles para resolver los desafíos.
 Características principales:

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mapa on Alejandro Coria Games</title>
-    <link>https://alejandrocoria.games/es/tags/mapa/</link>
+    <link>https://alejandrocoria.games/es/tags/Mapa/</link>
     <description>Recent content in Mapa on Alejandro Coria Games</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
@@ -10,17 +10,17 @@
     <webMaster>contact@alejandrocoria.games (Alejandro Coria)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     
-        <atom:link href="https://alejandrocoria.games/es/tags/mapa/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://alejandrocoria.games/es/tags/Mapa/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>Auto​Preset​Map</title>
-        <link>https://alejandrocoria.games/es/projects/autopresetmap/</link>
+        <link>https://alejandrocoria.games/es/projects/AutoPresetMap/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         <author>contact@alejandrocoria.games (Alejandro Coria)</author>
-        <guid>https://alejandrocoria.games/es/projects/autopresetmap/</guid>
+        <guid>https://alejandrocoria.games/es/projects/AutoPresetMap/</guid>
         <description>Este mod es un complemento para Journey Map que cambia el preset del minimapa cuando cambias de dimensión. Simplemente presiona la tecla de Cambiar Acción (O por defecto) y puedes cambiar qué pasa cuando entras a la dimensión actual.
 Las opciones son:
  Nada (lo que pasa normalmente sin el mod) Preset 1 (pone automáticamente el preset 1) Preset 2 (pone automáticamente el preset 2) Acción por Defecto (lo que pasa en cualquier dimensión que no configuraste todavía)  Funciona en el cliente y no se necesita en el servidor.</description>

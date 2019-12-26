@@ -1,6 +1,6 @@
 [
 {
-	"uri": "https://alejandrocoria.games/es/projects/colorful_ball/",
+	"uri": "https://alejandrocoria.games/es/projects/Colorful_Ball/",
 	"title": "Colorful Ball",
 	"tags": ["Videojuego", "Android", "Puzle", "Godot"],
 	"categories": [],
@@ -9,7 +9,7 @@
 	"content": "Colorful Ball es un puzle que requiere ingenio y habilidad. Controlas una bola que puede cambiar de color. Necesitas el color correcto para poder pasar por las paredes correctas y llegar al siguiente checkpoint. Te encontrarás con torretas que te dispararán a diferentes tiempos y que tendrás que pasar por encima para obtener su color.\nTambién conseguirás diferentes habilidades que te serán útiles para resolver los desafíos.\nCaracterísticas principales:\n Más de 60 puzles desafiantes y con una dificultad progresiva Un mapa continuo sin pantallas de carga Logros con los que puedes desbloquear puzles extra Opciones del joystick en pantalla para poder elegir el tamaño y tipo de movimiento que más cómodo te parezca Gráficos interesantes, reflejos dinámicos en la bola (se pueden desactivar en las opciones) La publicidad solo puede aparecer cuando pierdes para no interrumpirte mientras avanzas  "
 },
 {
-	"uri": "https://alejandrocoria.games/es/projects/p-changer/",
+	"uri": "https://alejandrocoria.games/es/projects/P-Changer/",
 	"title": "P-Changer",
 	"tags": ["Videojuego", "Flash", "Web", "Puzle", "Haxe"],
 	"categories": [],
@@ -18,7 +18,7 @@
 	"content": "Necesitas activar adobe flash player para jugar este juego.\n"
 },
 {
-	"uri": "https://alejandrocoria.games/es/projects/autopresetmap/",
+	"uri": "https://alejandrocoria.games/es/projects/AutoPresetMap/",
 	"title": "Auto​Preset​Map",
 	"tags": ["Mod de Minecraft", "Mapa", "Complemento", "Java", "Software libre"],
 	"categories": [],
@@ -36,7 +36,7 @@
 	"content": ""
 },
 {
-	"uri": "https://alejandrocoria.games/es/tags/android/",
+	"uri": "https://alejandrocoria.games/es/tags/Android/",
 	"title": "Android",
 	"tags": [],
 	"categories": [],
@@ -54,7 +54,7 @@
 	"content": "Todos los nombre de productos, logotipos y marcas son propiedad de sus respectivos dueños. Todos los nombres de empresas, productos y servicios utilizados en este sitio web son solo para fines de identificación. El uso de estos nombres, logotipos y marcas no implica aprobación.\nGoogle Play y el logotipo de Google Play son marcas comerciales de Google LLC.\nGitHub y el logotipo de GitHub son marcas comerciales de GitHub, Inc.\nitch.io y el logotipo de itch.io son marcas comerciales de Itch Corp.\nKongregate y los logotipos de Kongregate son marcas comerciales de Kongregate Inc.\nLinkedIn y el logotipo de LinkedIn son marcas comerciales de LinkedIn Corporation.\nEl nombre y logotipo de Stack Exchange son marcas comerciales de Stack Exchange Inc.\nEl nombre y logotipo de Stack Overflow son marcas comerciales de Stack Exchange Inc.\nCurseForge y el logotipo de CurseForge son marcas comerciales de Twitch Interactive, Inc.\nTwitter y el logotipo de Twitter son marcas comerciales de Twitter, Inc.\n"
 },
 {
-	"uri": "https://alejandrocoria.games/es/tags/complemento/",
+	"uri": "https://alejandrocoria.games/es/tags/Complemento/",
 	"title": "Complemento",
 	"tags": [],
 	"categories": [],
@@ -63,7 +63,7 @@
 	"content": ""
 },
 {
-	"uri": "https://alejandrocoria.games/es/tags/flash/",
+	"uri": "https://alejandrocoria.games/es/tags/Flash/",
 	"title": "Flash",
 	"tags": [],
 	"categories": [],
@@ -72,7 +72,7 @@
 	"content": ""
 },
 {
-	"uri": "https://alejandrocoria.games/es/tags/godot/",
+	"uri": "https://alejandrocoria.games/es/tags/Godot/",
 	"title": "Godot",
 	"tags": [],
 	"categories": [],
@@ -81,7 +81,7 @@
 	"content": ""
 },
 {
-	"uri": "https://alejandrocoria.games/es/tags/haxe/",
+	"uri": "https://alejandrocoria.games/es/tags/Haxe/",
 	"title": "Haxe",
 	"tags": [],
 	"categories": [],
@@ -90,7 +90,7 @@
 	"content": ""
 },
 {
-	"uri": "https://alejandrocoria.games/es/tags/java/",
+	"uri": "https://alejandrocoria.games/es/tags/Java/",
 	"title": "Java",
 	"tags": [],
 	"categories": [],
@@ -99,7 +99,7 @@
 	"content": ""
 },
 {
-	"uri": "https://alejandrocoria.games/es/tags/mapa/",
+	"uri": "https://alejandrocoria.games/es/tags/Mapa/",
 	"title": "Mapa",
 	"tags": [],
 	"categories": [],
@@ -108,7 +108,7 @@
 	"content": ""
 },
 {
-	"uri": "https://alejandrocoria.games/es/tags/mod-de-minecraft/",
+	"uri": "https://alejandrocoria.games/es/tags/Mod-de-Minecraft/",
 	"title": "Mod de Minecraft",
 	"tags": [],
 	"categories": [],
@@ -126,7 +126,7 @@
 	"content": ""
 },
 {
-	"uri": "https://alejandrocoria.games/es/tags/puzle/",
+	"uri": "https://alejandrocoria.games/es/tags/Puzle/",
 	"title": "Puzle",
 	"tags": [],
 	"categories": [],
@@ -144,7 +144,7 @@
 	"content": "Soy un desarrollador de videojuegos independientes. Me gusta programar en C++, usar Godot y estoy empezando a crear mis primeros mods de Minecraft.\nSi te gusta mucho lo que hago, considera dar una donación :)\n"
 },
 {
-	"uri": "https://alejandrocoria.games/es/tags/software-libre/",
+	"uri": "https://alejandrocoria.games/es/tags/Software-libre/",
 	"title": "Software libre",
 	"tags": [],
 	"categories": [],
@@ -162,7 +162,7 @@
 	"content": ""
 },
 {
-	"uri": "https://alejandrocoria.games/es/tags/videojuego/",
+	"uri": "https://alejandrocoria.games/es/tags/Videojuego/",
 	"title": "Videojuego",
 	"tags": [],
 	"categories": [],
@@ -171,7 +171,7 @@
 	"content": ""
 },
 {
-	"uri": "https://alejandrocoria.games/es/tags/web/",
+	"uri": "https://alejandrocoria.games/es/tags/Web/",
 	"title": "Web",
 	"tags": [],
 	"categories": [],

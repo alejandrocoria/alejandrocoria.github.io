@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Web on Alejandro Coria Games</title>
-    <link>https://alejandrocoria.games/tags/web/</link>
+    <link>https://alejandrocoria.games/tags/Web/</link>
     <description>Recent content in Web on Alejandro Coria Games</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -10,17 +10,17 @@
     <webMaster>contact@alejandrocoria.games (Alejandro Coria)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     
-        <atom:link href="https://alejandrocoria.games/tags/web/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://alejandrocoria.games/tags/Web/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>P-Changer</title>
-        <link>https://alejandrocoria.games/projects/p-changer/</link>
+        <link>https://alejandrocoria.games/projects/P-Changer/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         <author>contact@alejandrocoria.games (Alejandro Coria)</author>
-        <guid>https://alejandrocoria.games/projects/p-changer/</guid>
+        <guid>https://alejandrocoria.games/projects/P-Changer/</guid>
         <description>You need to activate adobe flash player to play this game.</description>
       </item>
       
