@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://alejandrocoria.games/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alejandrocoria.games/es/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alejandrocoria.games/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://alejandrocoria.games/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alejandrocoria.games/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alejandrocoria.games/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://alejandrocoria.games/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alejandrocoria.games/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alejandrocoria.games/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://alejandrocoria.games/trademark/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alejandrocoria.games/es/trademark/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alejandrocoria.games/trademark/"
+                />
+  </url>
+  
+</urlset>

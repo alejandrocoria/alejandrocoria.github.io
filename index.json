@@ -1,0 +1,37 @@
+[
+{
+	"uri": "https://alejandrocoria.games/about/",
+	"title": "About me",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "Alejandro Coria Games. My page...",
+	"content": "I am an indie game developer. I like to program in C++, use Godot and I'm starting to make my first Minecraft mods.\nIf you really like what I do, consider a donation :)\n"
+},
+{
+	"uri": "https://alejandrocoria.games/",
+	"title": "Projects",
+	"tags": ["index"],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://alejandrocoria.games/tags/",
+	"title": "Tags",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://alejandrocoria.games/trademark/",
+	"title": "Trademark Legal Notice",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "Trademark and logo usage on the website.",
+	"content": "All product names, logos, and brands are property of their respective owners. All company, product and service names used in this website are for identification purposes only. Use of these names, logos, and brands does not imply endorsement.\nGoogle Play and the Google Play logo are trademarks of Google LLC.\nGitHub and the GitHub logo are trademarks of GitHub, Inc.\nitch.io and the itch.io logo are trademarks of Itch Corp.\nKongregate and the Kongregate logos are trademarks of Kongregate Inc.\nLinkedIn and the LinkedIn logo are trademarks of LinkedIn Corporation.\nThe Stack Exchange name and logo are trademarks of Stack Exchange Inc.\nThe Stack Overflow name and logo are trademarks of Stack Exchange Inc.\nCurseForge and the CurseForge logo are trademarks of Twitch Interactive, Inc.\nTwitter and the Twitter logo are trademarks of Twitter, Inc.\n"
+}]

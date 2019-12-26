@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alejandro Coria Games</title>
+    <link>https://alejandrocoria.games/es/</link>
+    <description>Recent content on Alejandro Coria Games</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <managingEditor>contact@alejandrocoria.games (Alejandro Coria)</managingEditor>
+    <webMaster>contact@alejandrocoria.games (Alejandro Coria)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    
+        <atom:link href="https://alejandrocoria.games/es/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Aviso Legal Sobre Marcas Comerciales</title>
+        <link>https://alejandrocoria.games/es/trademark/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>contact@alejandrocoria.games (Alejandro Coria)</author>
+        <guid>https://alejandrocoria.games/es/trademark/</guid>
+        <description>Todos los nombre de productos, logotipos y marcas son propiedad de sus respectivos dueños. Todos los nombres de empresas, productos y servicios utilizados en este sitio web son solo para fines de identificación. El uso de estos nombres, logotipos y marcas no implica aprobación.
+Google Play y el logotipo de Google Play son marcas comerciales de Google LLC.
+GitHub y el logotipo de GitHub son marcas comerciales de GitHub, Inc.</description>
+      </item>
+      
+      <item>
+        <title>Sobre mi</title>
+        <link>https://alejandrocoria.games/es/about/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>contact@alejandrocoria.games (Alejandro Coria)</author>
+        <guid>https://alejandrocoria.games/es/about/</guid>
+        <description>Soy un desarrollador de videojuegos independientes. Me gusta programar en C++, usar Godot y estoy empezando a crear mis primeros mods de Minecraft.
+Si te gusta mucho lo que hago, considera dar una donación :)</description>
+      </item>
+      
+    
+  </channel>
+</rss>

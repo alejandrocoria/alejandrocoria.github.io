@@ -1,0 +1,5 @@
+Sitemap: http://www.example.com/sitemap.xml
+User-agent: *
+Disallow: /Colorful_Ball/privacy_policy.html
+Disallow: /projects/Colorful_Ball/privacy_policy.html
+Disallow: */404.html

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Alejandro Coria Games</title>
+    <link>https://alejandrocoria.games/</link>
+    <description>Recent content in Projects on Alejandro Coria Games</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>contact@alejandrocoria.games (Alejandro Coria)</managingEditor>
+    <webMaster>contact@alejandrocoria.games (Alejandro Coria)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    
+        <atom:link href="https://alejandrocoria.games/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>About me</title>
+        <link>https://alejandrocoria.games/about/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>contact@alejandrocoria.games (Alejandro Coria)</author>
+        <guid>https://alejandrocoria.games/about/</guid>
+        <description>I am an indie game developer. I like to program in C++, use Godot and I&#39;m starting to make my first Minecraft mods.
+If you really like what I do, consider a donation :)</description>
+      </item>
+      
+      <item>
+        <title>Trademark Legal Notice</title>
+        <link>https://alejandrocoria.games/trademark/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>contact@alejandrocoria.games (Alejandro Coria)</author>
+        <guid>https://alejandrocoria.games/trademark/</guid>
+        <description>All product names, logos, and brands are property of their respective owners. All company, product and service names used in this website are for identification purposes only. Use of these names, logos, and brands does not imply endorsement.
+Google Play and the Google Play logo are trademarks of Google LLC.
+GitHub and the GitHub logo are trademarks of GitHub, Inc.
+itch.io and the itch.io logo are trademarks of Itch Corp.</description>
+      </item>
+      
+    
+  </channel>
+</rss>

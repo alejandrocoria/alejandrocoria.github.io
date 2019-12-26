@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://alejandrocoria.games/es/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alejandrocoria.games/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alejandrocoria.games/es/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://alejandrocoria.games/es/trademark/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alejandrocoria.games/trademark/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alejandrocoria.games/es/trademark/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://alejandrocoria.games/es/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alejandrocoria.games/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alejandrocoria.games/es/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://alejandrocoria.games/es/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alejandrocoria.games/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alejandrocoria.games/es/tags/"
+                />
+  </url>
+  
+</urlset>
