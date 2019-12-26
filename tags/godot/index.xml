@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Godot on Alejandro Coria Games</title>
+    <link>https://alejandrocoria.games/tags/godot/</link>
+    <description>Recent content in Godot on Alejandro Coria Games</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>contact@alejandrocoria.games (Alejandro Coria)</managingEditor>
+    <webMaster>contact@alejandrocoria.games (Alejandro Coria)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    
+        <atom:link href="https://alejandrocoria.games/tags/godot/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Colorful Ball</title>
+        <link>https://alejandrocoria.games/projects/colorful_ball/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>contact@alejandrocoria.games (Alejandro Coria)</author>
+        <guid>https://alejandrocoria.games/projects/colorful_ball/</guid>
+        <description>Colorful Ball is a puzzle that requires ingenuity and skill. You control a ball that can change color. You need the correct color to be able to go through the correct walls and get to the next checkpoint. You will find turrets that will shoot at different times and that you will have to go over to get their color.
+You will also get different skills that will be useful to solve the challenges.</description>
+      </item>
+      
+    
+  </channel>
+</rss>

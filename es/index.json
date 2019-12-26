@@ -1,7 +1,43 @@
 [
 {
+	"uri": "https://alejandrocoria.games/es/projects/colorful_ball/",
+	"title": "Colorful Ball",
+	"tags": ["Videojuego", "Android", "Puzle", "Godot"],
+	"categories": [],
+	"series": [],
+	"description": "Juego de puzles gratuito creado en Godot.",
+	"content": "Colorful Ball es un puzle que requiere ingenio y habilidad. Controlas una bola que puede cambiar de color. Necesitas el color correcto para poder pasar por las paredes correctas y llegar al siguiente checkpoint. Te encontrarás con torretas que te dispararán a diferentes tiempos y que tendrás que pasar por encima para obtener su color.\nTambién conseguirás diferentes habilidades que te serán útiles para resolver los desafíos.\nCaracterísticas principales:\n Más de 60 puzles desafiantes y con una dificultad progresiva Un mapa continuo sin pantallas de carga Logros con los que puedes desbloquear puzles extra Opciones del joystick en pantalla para poder elegir el tamaño y tipo de movimiento que más cómodo te parezca Gráficos interesantes, reflejos dinámicos en la bola (se pueden desactivar en las opciones) La publicidad solo puede aparecer cuando pierdes para no interrumpirte mientras avanzas  "
+},
+{
+	"uri": "https://alejandrocoria.games/es/projects/p-changer/",
+	"title": "P-Changer",
+	"tags": ["Videojuego", "Flash", "Web", "Puzle", "Haxe"],
+	"categories": [],
+	"series": [],
+	"description": "Juego de puzles gratuito creado en Haxe.",
+	"content": "Necesitas activar adobe flash player para jugar este juego.\n"
+},
+{
+	"uri": "https://alejandrocoria.games/es/projects/autopresetmap/",
+	"title": "Auto​Preset​Map",
+	"tags": ["Mod de Minecraft", "Mapa", "Complemento", "Java", "Software libre"],
+	"categories": [],
+	"series": [],
+	"description": "Mod de Minecraft que te permite cambiar automáticamente el preset del minimapa de Journey Map cuando cambias de dimensión.",
+	"content": "Este mod es un complemento para Journey Map que cambia el preset del minimapa cuando cambias de dimensión. Simplemente presiona la tecla de Cambiar Acción (O por defecto) y puedes cambiar qué pasa cuando entras a la dimensión actual.\nLas opciones son:\n Nada (lo que pasa normalmente sin el mod) Preset 1 (pone automáticamente el preset 1) Preset 2 (pone automáticamente el preset 2) Acción por Defecto (lo que pasa en cualquier dimensión que no configuraste todavía)  Funciona en el cliente y no se necesita en el servidor.\nNecesita Journey Map 1.12.2-5.5.5.\n"
+},
+{
 	"uri": "https://alejandrocoria.games/es/",
 	"title": "Alejandro Coria Games",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://alejandrocoria.games/es/tags/android/",
+	"title": "Android",
 	"tags": [],
 	"categories": [],
 	"series": [],
@@ -18,6 +54,87 @@
 	"content": "Todos los nombre de productos, logotipos y marcas son propiedad de sus respectivos dueños. Todos los nombres de empresas, productos y servicios utilizados en este sitio web son solo para fines de identificación. El uso de estos nombres, logotipos y marcas no implica aprobación.\nGoogle Play y el logotipo de Google Play son marcas comerciales de Google LLC.\nGitHub y el logotipo de GitHub son marcas comerciales de GitHub, Inc.\nitch.io y el logotipo de itch.io son marcas comerciales de Itch Corp.\nKongregate y los logotipos de Kongregate son marcas comerciales de Kongregate Inc.\nLinkedIn y el logotipo de LinkedIn son marcas comerciales de LinkedIn Corporation.\nEl nombre y logotipo de Stack Exchange son marcas comerciales de Stack Exchange Inc.\nEl nombre y logotipo de Stack Overflow son marcas comerciales de Stack Exchange Inc.\nCurseForge y el logotipo de CurseForge son marcas comerciales de Twitch Interactive, Inc.\nTwitter y el logotipo de Twitter son marcas comerciales de Twitter, Inc.\n"
 },
 {
+	"uri": "https://alejandrocoria.games/es/tags/complemento/",
+	"title": "Complemento",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://alejandrocoria.games/es/tags/flash/",
+	"title": "Flash",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://alejandrocoria.games/es/tags/godot/",
+	"title": "Godot",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://alejandrocoria.games/es/tags/haxe/",
+	"title": "Haxe",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://alejandrocoria.games/es/tags/java/",
+	"title": "Java",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://alejandrocoria.games/es/tags/mapa/",
+	"title": "Mapa",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://alejandrocoria.games/es/tags/mod-de-minecraft/",
+	"title": "Mod de Minecraft",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://alejandrocoria.games/es/projects/",
+	"title": "Projects",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://alejandrocoria.games/es/tags/puzle/",
+	"title": "Puzle",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
 	"uri": "https://alejandrocoria.games/es/about/",
 	"title": "Sobre mi",
 	"tags": [],
@@ -27,8 +144,35 @@
 	"content": "Soy un desarrollador de videojuegos independientes. Me gusta programar en C++, usar Godot y estoy empezando a crear mis primeros mods de Minecraft.\nSi te gusta mucho lo que hago, considera dar una donación :)\n"
 },
 {
+	"uri": "https://alejandrocoria.games/es/tags/software-libre/",
+	"title": "Software libre",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
 	"uri": "https://alejandrocoria.games/es/tags/",
 	"title": "Tags",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://alejandrocoria.games/es/tags/videojuego/",
+	"title": "Videojuego",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://alejandrocoria.games/es/tags/web/",
+	"title": "Web",
 	"tags": [],
 	"categories": [],
 	"series": [],

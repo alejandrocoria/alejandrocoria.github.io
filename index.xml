@@ -16,6 +16,36 @@
     
       
       <item>
+        <title>Colorful Ball</title>
+        <link>https://alejandrocoria.games/projects/colorful_ball/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>contact@alejandrocoria.games (Alejandro Coria)</author>
+        <guid>https://alejandrocoria.games/projects/colorful_ball/</guid>
+        <description>Colorful Ball is a puzzle that requires ingenuity and skill. You control a ball that can change color. You need the correct color to be able to go through the correct walls and get to the next checkpoint. You will find turrets that will shoot at different times and that you will have to go over to get their color.
+You will also get different skills that will be useful to solve the challenges.</description>
+      </item>
+      
+      <item>
+        <title>P-Changer</title>
+        <link>https://alejandrocoria.games/projects/p-changer/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>contact@alejandrocoria.games (Alejandro Coria)</author>
+        <guid>https://alejandrocoria.games/projects/p-changer/</guid>
+        <description>You need to activate adobe flash player to play this game.</description>
+      </item>
+      
+      <item>
+        <title>Auto​Preset​Map</title>
+        <link>https://alejandrocoria.games/projects/autopresetmap/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>contact@alejandrocoria.games (Alejandro Coria)</author>
+        <guid>https://alejandrocoria.games/projects/autopresetmap/</guid>
+        <description>This mod is an addon for Journey Map that changes the minimap preset when you change dimension. Simply press the Change Action key (O by default) and you can change what happens when you enter the current dimension.
+The options are:
+ Nothing (what normally happens without the mod) Preset 1 (automatically sets preset 1) Preset 2 (automatically sets preset 2) Default Action (what happens in any dimension that you have not configured yet)  It works on the client and is not needed on the server.</description>
+      </item>
+      
+      <item>
         <title>About me</title>
         <link>https://alejandrocoria.games/about/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

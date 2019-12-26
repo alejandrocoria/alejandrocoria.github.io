@@ -3,6 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://alejandrocoria.games/projects/colorful_ball/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alejandrocoria.games/es/projects/colorful_ball/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alejandrocoria.games/projects/colorful_ball/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://alejandrocoria.games/projects/p-changer/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alejandrocoria.games/es/projects/p-changer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alejandrocoria.games/projects/p-changer/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://alejandrocoria.games/projects/autopresetmap/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alejandrocoria.games/es/projects/autopresetmap/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alejandrocoria.games/projects/autopresetmap/"
+                />
+  </url>
+  
+  <url>
     <loc>https://alejandrocoria.games/about/</loc>
     <xhtml:link
                 rel="alternate"
@@ -13,6 +55,106 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://alejandrocoria.games/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://alejandrocoria.games/tags/addon/</loc>
+  </url>
+  
+  <url>
+    <loc>https://alejandrocoria.games/tags/android/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alejandrocoria.games/es/tags/android/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alejandrocoria.games/tags/android/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://alejandrocoria.games/tags/flash/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alejandrocoria.games/es/tags/flash/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alejandrocoria.games/tags/flash/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://alejandrocoria.games/tags/free-software/</loc>
+  </url>
+  
+  <url>
+    <loc>https://alejandrocoria.games/tags/godot/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alejandrocoria.games/es/tags/godot/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alejandrocoria.games/tags/godot/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://alejandrocoria.games/tags/haxe/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alejandrocoria.games/es/tags/haxe/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alejandrocoria.games/tags/haxe/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://alejandrocoria.games/tags/java/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alejandrocoria.games/es/tags/java/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alejandrocoria.games/tags/java/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://alejandrocoria.games/tags/map/</loc>
+  </url>
+  
+  <url>
+    <loc>https://alejandrocoria.games/tags/minecraft-mod/</loc>
+  </url>
+  
+  <url>
+    <loc>https://alejandrocoria.games/projects/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alejandrocoria.games/es/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alejandrocoria.games/projects/"
                 />
   </url>
   
@@ -28,6 +170,10 @@
                 hreflang="en"
                 href="https://alejandrocoria.games/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://alejandrocoria.games/tags/puzzle/</loc>
   </url>
   
   <url>
@@ -55,6 +201,24 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://alejandrocoria.games/trademark/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://alejandrocoria.games/tags/videogame/</loc>
+  </url>
+  
+  <url>
+    <loc>https://alejandrocoria.games/tags/web/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alejandrocoria.games/es/tags/web/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alejandrocoria.games/tags/web/"
                 />
   </url>
   

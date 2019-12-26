@@ -1,5 +1,32 @@
 [
 {
+	"uri": "https://alejandrocoria.games/projects/colorful_ball/",
+	"title": "Colorful Ball",
+	"tags": ["Videogame", "Android", "Puzzle", "Godot"],
+	"categories": [],
+	"series": [],
+	"description": "Free puzzle game created in Godot.",
+	"content": "Colorful Ball is a puzzle that requires ingenuity and skill. You control a ball that can change color. You need the correct color to be able to go through the correct walls and get to the next checkpoint. You will find turrets that will shoot at different times and that you will have to go over to get their color.\nYou will also get different skills that will be useful to solve the challenges.\nMain features:\n Over 60 challenging puzzles with a progressive difficulty A continuous map without loading screens Achievements with which you can unlock extra puzzles On-screen joystick options to choose the size and type of movement that is most comfortable for you Interesting graphics, dynamic reflections on the ball (can be deactivated in the options) Ads can only appear when you lose so that it does not interrupt you while you advance  "
+},
+{
+	"uri": "https://alejandrocoria.games/projects/p-changer/",
+	"title": "P-Changer",
+	"tags": ["Videogame", "Flash", "Web", "Puzzle", "Haxe"],
+	"categories": [],
+	"series": [],
+	"description": "Free puzzle game created in Haxe.",
+	"content": "You need to activate adobe flash player to play this game.\n"
+},
+{
+	"uri": "https://alejandrocoria.games/projects/autopresetmap/",
+	"title": "Auto​Preset​Map",
+	"tags": ["Minecraft Mod", "Map", "Addon", "Java", "Free Software"],
+	"categories": [],
+	"series": [],
+	"description": "Minecraft mod that allows you to automatically change the minimap preset of Journey Map when you change the dimension.",
+	"content": "This mod is an addon for Journey Map that changes the minimap preset when you change dimension. Simply press the Change Action key (O by default) and you can change what happens when you enter the current dimension.\nThe options are:\n Nothing (what normally happens without the mod) Preset 1 (automatically sets preset 1) Preset 2 (automatically sets preset 2) Default Action (what happens in any dimension that you have not configured yet)  It works on the client and is not needed on the server.\nNeed Journey Map 1.12.2-5.5.5.\n"
+},
+{
 	"uri": "https://alejandrocoria.games/about/",
 	"title": "About me",
 	"tags": [],
@@ -9,9 +36,108 @@
 	"content": "I am an indie game developer. I like to program in C++, use Godot and I'm starting to make my first Minecraft mods.\nIf you really like what I do, consider a donation :)\n"
 },
 {
+	"uri": "https://alejandrocoria.games/tags/addon/",
+	"title": "Addon",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://alejandrocoria.games/tags/android/",
+	"title": "Android",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://alejandrocoria.games/tags/flash/",
+	"title": "Flash",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://alejandrocoria.games/tags/free-software/",
+	"title": "Free Software",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://alejandrocoria.games/tags/godot/",
+	"title": "Godot",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://alejandrocoria.games/tags/haxe/",
+	"title": "Haxe",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://alejandrocoria.games/tags/java/",
+	"title": "Java",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://alejandrocoria.games/tags/map/",
+	"title": "Map",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://alejandrocoria.games/tags/minecraft-mod/",
+	"title": "Minecraft Mod",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://alejandrocoria.games/projects/",
+	"title": "Projects",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
 	"uri": "https://alejandrocoria.games/",
 	"title": "Projects",
 	"tags": ["index"],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://alejandrocoria.games/tags/puzzle/",
+	"title": "Puzzle",
+	"tags": [],
 	"categories": [],
 	"series": [],
 	"description": "",
@@ -34,4 +160,22 @@
 	"series": [],
 	"description": "Trademark and logo usage on the website.",
 	"content": "All product names, logos, and brands are property of their respective owners. All company, product and service names used in this website are for identification purposes only. Use of these names, logos, and brands does not imply endorsement.\nGoogle Play and the Google Play logo are trademarks of Google LLC.\nGitHub and the GitHub logo are trademarks of GitHub, Inc.\nitch.io and the itch.io logo are trademarks of Itch Corp.\nKongregate and the Kongregate logos are trademarks of Kongregate Inc.\nLinkedIn and the LinkedIn logo are trademarks of LinkedIn Corporation.\nThe Stack Exchange name and logo are trademarks of Stack Exchange Inc.\nThe Stack Overflow name and logo are trademarks of Stack Exchange Inc.\nCurseForge and the CurseForge logo are trademarks of Twitch Interactive, Inc.\nTwitter and the Twitter logo are trademarks of Twitter, Inc.\n"
+},
+{
+	"uri": "https://alejandrocoria.games/tags/videogame/",
+	"title": "Videogame",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://alejandrocoria.games/tags/web/",
+	"title": "Web",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
 }]
