@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Godot on Alejandro Coria Games</title>
+    <link>https://alejandrocoria.games/es/tags/Godot/</link>
+    <description>Recent content in Godot on Alejandro Coria Games</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <managingEditor>contact@alejandrocoria.games (Alejandro Coria)</managingEditor>
+    <webMaster>contact@alejandrocoria.games (Alejandro Coria)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    
+        <atom:link href="https://alejandrocoria.games/es/tags/Godot/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Colorful Ball</title>
+        <link>https://alejandrocoria.games/es/projects/Colorful_Ball/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>contact@alejandrocoria.games (Alejandro Coria)</author>
+        <guid>https://alejandrocoria.games/es/projects/Colorful_Ball/</guid>
+        <description>Colorful Ball es un puzle que requiere ingenio y habilidad. Controlas una bola que puede cambiar de color. Necesitas el color correcto para poder pasar por las paredes correctas y llegar al siguiente checkpoint. Te encontrarás con torretas que te dispararán a diferentes tiempos y que tendrás que pasar por encima para obtener su color.
+También conseguirás diferentes habilidades que te serán útiles para resolver los desafíos.
+Características principales:
+ Más de 60 puzles desafiantes y con una dificultad progresiva Un mapa continuo sin pantallas de carga Logros con los que puedes desbloquear puzles extra Opciones del joystick en pantalla para poder elegir el tamaño y tipo de movimiento que más cómodo te parezca Gráficos interesantes, reflejos dinámicos en la bola (se pueden desactivar en las opciones) La publicidad solo puede aparecer cuando pierdes para no interrumpirte mientras avanzas  </description>
+      </item>
+      
+    
+  </channel>
+</rss>
