@@ -9,13 +9,13 @@
 	"content": "Colorful Ball is a puzzle that requires ingenuity and skill. You control a ball that can change color. You need the correct color to be able to go through the correct walls and get to the next checkpoint. You will find turrets that will shoot at different times and that you will have to go over to get their color.\nYou will also get different skills that will be useful to solve the challenges.\nMain features:\n Over 60 challenging puzzles with a progressive difficulty A continuous map without loading screens Achievements with which you can unlock extra puzzles On-screen joystick options to choose the size and type of movement that is most comfortable for you Interesting graphics, dynamic reflections on the ball (can be deactivated in the options) Ads can only appear when you lose so that it does not interrupt you while you advance  "
 },
 {
-	"uri": "https://alejandrocoria.games/projects/P-Changer/",
-	"title": "P-Changer",
-	"tags": ["Videogame", "Flash", "Web", "Puzzle", "Haxe"],
+	"uri": "https://alejandrocoria.games/projects/MapFrontiers/",
+	"title": "Map​Frontiers",
+	"tags": ["Minecraft Mod", "Map", "Addon", "Java", "Free Software"],
 	"categories": [],
 	"series": [],
-	"description": "Free puzzle game created in Haxe.",
-	"content": "You need to activate adobe flash player to play this game.\n"
+	"description": "Minecraft mod that allows you to divide the map into regions and assign them names and colors.",
+	"content": "This mod is an addon for Journey Map that allows you to divide the map into regions and assign them names and colors.\nAt the moment it only works in singleplayer.\nNeed Journey Map 1.12.2-5.7.0.\n"
 },
 {
 	"uri": "https://alejandrocoria.games/projects/AutoPresetMap/",
@@ -25,6 +25,15 @@
 	"series": [],
 	"description": "Minecraft mod that allows you to automatically change the minimap preset of Journey Map when you change the dimension.",
 	"content": "This mod is an addon for Journey Map that changes the minimap preset when you change dimension. Simply press the Change Action key (O by default) and you can change what happens when you enter the current dimension.\nThe options are:\n Nothing (what normally happens without the mod) Preset 1 (automatically sets preset 1) Preset 2 (automatically sets preset 2) Default Action (what happens in any dimension that you have not configured yet)  It works on the client and is not needed on the server.\nNeed Journey Map 1.12.2-5.5.5.\n"
+},
+{
+	"uri": "https://alejandrocoria.games/projects/P-Changer/",
+	"title": "P-Changer",
+	"tags": ["Videogame", "Flash", "Web", "Puzzle", "Haxe"],
+	"categories": [],
+	"series": [],
+	"description": "Free puzzle game created in Haxe.",
+	"content": "You need to activate adobe flash player to play this game.\n"
 },
 {
 	"uri": "https://alejandrocoria.games/about/",

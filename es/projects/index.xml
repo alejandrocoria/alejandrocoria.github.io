@@ -28,12 +28,14 @@ Características principales:
       </item>
       
       <item>
-        <title>P-Changer</title>
-        <link>https://alejandrocoria.games/es/projects/P-Changer/</link>
+        <title>Map​Frontiers</title>
+        <link>https://alejandrocoria.games/es/projects/MapFrontiers/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         <author>contact@alejandrocoria.games (Alejandro Coria)</author>
-        <guid>https://alejandrocoria.games/es/projects/P-Changer/</guid>
-        <description>Necesitas activar adobe flash player para jugar este juego.</description>
+        <guid>https://alejandrocoria.games/es/projects/MapFrontiers/</guid>
+        <description>Este mod es un complemento para Journey Map que te permite dividir el mapa en regiones y asignarles nombre y colores.
+Por el momento solo funciona en modo de un jugador.
+Necesita Journey Map 1.12.2-5.7.0.</description>
       </item>
       
       <item>
@@ -45,6 +47,15 @@ Características principales:
         <description>Este mod es un complemento para Journey Map que cambia el preset del minimapa cuando cambias de dimensión. Simplemente presiona la tecla de Cambiar Acción (O por defecto) y puedes cambiar qué pasa cuando entras a la dimensión actual.
 Las opciones son:
  Nada (lo que pasa normalmente sin el mod) Preset 1 (pone automáticamente el preset 1) Preset 2 (pone automáticamente el preset 2) Acción por Defecto (lo que pasa en cualquier dimensión que no configuraste todavía)  Funciona en el cliente y no se necesita en el servidor.</description>
+      </item>
+      
+      <item>
+        <title>P-Changer</title>
+        <link>https://alejandrocoria.games/es/projects/P-Changer/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>contact@alejandrocoria.games (Alejandro Coria)</author>
+        <guid>https://alejandrocoria.games/es/projects/P-Changer/</guid>
+        <description>Necesitas activar adobe flash player para jugar este juego.</description>
       </item>
       
     

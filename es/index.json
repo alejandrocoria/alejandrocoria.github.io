@@ -9,13 +9,13 @@
 	"content": "Colorful Ball es un puzle que requiere ingenio y habilidad. Controlas una bola que puede cambiar de color. Necesitas el color correcto para poder pasar por las paredes correctas y llegar al siguiente checkpoint. Te encontrarás con torretas que te dispararán a diferentes tiempos y que tendrás que pasar por encima para obtener su color.\nTambién conseguirás diferentes habilidades que te serán útiles para resolver los desafíos.\nCaracterísticas principales:\n Más de 60 puzles desafiantes y con una dificultad progresiva Un mapa continuo sin pantallas de carga Logros con los que puedes desbloquear puzles extra Opciones del joystick en pantalla para poder elegir el tamaño y tipo de movimiento que más cómodo te parezca Gráficos interesantes, reflejos dinámicos en la bola (se pueden desactivar en las opciones) La publicidad solo puede aparecer cuando pierdes para no interrumpirte mientras avanzas  "
 },
 {
-	"uri": "https://alejandrocoria.games/es/projects/P-Changer/",
-	"title": "P-Changer",
-	"tags": ["Videojuego", "Flash", "Web", "Puzle", "Haxe"],
+	"uri": "https://alejandrocoria.games/es/projects/MapFrontiers/",
+	"title": "Map​Frontiers",
+	"tags": ["Mod de Minecraft", "Mapa", "Complemento", "Java", "Software libre"],
 	"categories": [],
 	"series": [],
-	"description": "Juego de puzles gratuito creado en Haxe.",
-	"content": "Necesitas activar adobe flash player para jugar este juego.\n"
+	"description": "Mod de Minecraft que te permite dividir el mapa en regiones y asignarles nombre y colores.",
+	"content": "Este mod es un complemento para Journey Map que te permite dividir el mapa en regiones y asignarles nombre y colores.\nPor el momento solo funciona en modo de un jugador.\nNecesita Journey Map 1.12.2-5.7.0.\n"
 },
 {
 	"uri": "https://alejandrocoria.games/es/projects/AutoPresetMap/",
@@ -25,6 +25,15 @@
 	"series": [],
 	"description": "Mod de Minecraft que te permite cambiar automáticamente el preset del minimapa de Journey Map cuando cambias de dimensión.",
 	"content": "Este mod es un complemento para Journey Map que cambia el preset del minimapa cuando cambias de dimensión. Simplemente presiona la tecla de Cambiar Acción (O por defecto) y puedes cambiar qué pasa cuando entras a la dimensión actual.\nLas opciones son:\n Nada (lo que pasa normalmente sin el mod) Preset 1 (pone automáticamente el preset 1) Preset 2 (pone automáticamente el preset 2) Acción por Defecto (lo que pasa en cualquier dimensión que no configuraste todavía)  Funciona en el cliente y no se necesita en el servidor.\nNecesita Journey Map 1.12.2-5.5.5.\n"
+},
+{
+	"uri": "https://alejandrocoria.games/es/projects/P-Changer/",
+	"title": "P-Changer",
+	"tags": ["Videojuego", "Flash", "Web", "Puzle", "Haxe"],
+	"categories": [],
+	"series": [],
+	"description": "Juego de puzles gratuito creado en Haxe.",
+	"content": "Necesitas activar adobe flash player para jugar este juego.\n"
 },
 {
 	"uri": "https://alejandrocoria.games/es/",

@@ -17,16 +17,16 @@
   </url>
   
   <url>
-    <loc>https://alejandrocoria.games/es/projects/P-Changer/</loc>
+    <loc>https://alejandrocoria.games/es/projects/MapFrontiers/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://alejandrocoria.games/projects/P-Changer/"
+                href="https://alejandrocoria.games/projects/MapFrontiers/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://alejandrocoria.games/es/projects/P-Changer/"
+                href="https://alejandrocoria.games/es/projects/MapFrontiers/"
                 />
   </url>
   
@@ -41,6 +41,20 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://alejandrocoria.games/es/projects/AutoPresetMap/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://alejandrocoria.games/es/projects/P-Changer/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alejandrocoria.games/projects/P-Changer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alejandrocoria.games/es/projects/P-Changer/"
                 />
   </url>
   
