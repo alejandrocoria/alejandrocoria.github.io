@@ -42,7 +42,7 @@
 	"categories": [],
 	"series": [],
 	"description": "Alejandro Coria Games. My page...",
-	"content": "I am an indie game developer. I like to program in C++, use Godot and I'm starting to make my first Minecraft mods.\nIf you really like what I do, consider a donation :)\n"
+	"content": "I am an indie game developer. I like to program in C++, use Godot and I\u0026rsquo;m starting to make my first Minecraft mods.\nIf you really like what I do, consider a donation :)\n"
 },
 {
 	"uri": "https://alejandrocoria.games/tags/Addon/",
@@ -92,6 +92,15 @@
 {
 	"uri": "https://alejandrocoria.games/tags/Haxe/",
 	"title": "Haxe",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://alejandrocoria.games/tags/index/",
+	"title": "index",
 	"tags": [],
 	"categories": [],
 	"series": [],

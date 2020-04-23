@@ -1,11 +1,12 @@
 {
   "homepage": "https://alejandrocoria.games/projects/MapFrontiers/",
   "promos": {
-    "1.12.2-latest": "1.1.0",
-    "1.12.2-recommended": "1.0.1"
+    "1.12.2-latest": "1.2.0",
+    "1.12.2-recommended": "1.2.0"
   },
   "1.12.2": {
     "1.0.0": "Initial release.",
-    "1.1.0": "Now works on server!\nFrontiers keep track of creator/owner.\nFixed bug in Index. Unnamed frontiers have incorrect characters.\nFixed bug in saved frontiers. Name visibility is not saved."
+    "1.1.0": "Now works on server!\nFrontiers keep track of creator/owner.\nFixed bug in Index. Unnamed frontiers have incorrect characters.\nFixed bug in saved frontiers. Name visibility is not saved.",
+    "1.2.0": "Now you can change who can edit, create and delete frontiers! (Default key: F8).\nFixed marker of selected vertex not showing."
   }
 }
