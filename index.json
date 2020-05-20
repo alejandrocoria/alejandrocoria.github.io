@@ -14,8 +14,8 @@
 	"tags": ["Minecraft Mod", "Map", "Addon", "Java", "Free Software"],
 	"categories": [],
 	"series": [],
-	"description": "Minecraft mod that allows you to divide the map into regions and assign them names and colors.",
-	"content": "This mod is an addon for Journey Map that allows you to divide the map into regions and assign them names and colors.\nNeed Journey Map 1.12.2-5.7.0.\n"
+	"description": "Minecraft mod that allows you to divide the map into regions and assign them names, colors and a banner.",
+	"content": "This mod is an addon for Journey Map that allows you to divide the map into regions and assign them names, colors and a banner.\nNeed Journey Map 1.12.2-5.7.0.\n"
 },
 {
 	"uri": "https://alejandrocoria.games/projects/AutoPresetMap/",
