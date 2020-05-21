@@ -36,15 +36,6 @@
 	"content": "Necesitas activar adobe flash player para jugar este juego.\n"
 },
 {
-	"uri": "https://alejandrocoria.games/es/",
-	"title": "Alejandro Coria Games",
-	"tags": [],
-	"categories": [],
-	"series": [],
-	"description": "",
-	"content": ""
-},
-{
 	"uri": "https://alejandrocoria.games/es/tags/Android/",
 	"title": "Android",
 	"tags": [],
@@ -99,6 +90,15 @@
 	"content": ""
 },
 {
+	"uri": "https://alejandrocoria.games/es/tags/index/",
+	"title": "index",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
 	"uri": "https://alejandrocoria.games/es/tags/Java/",
 	"title": "Java",
 	"tags": [],
@@ -135,6 +135,15 @@
 	"content": ""
 },
 {
+	"uri": "https://alejandrocoria.games/es/",
+	"title": "Projects",
+	"tags": ["index"],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
 	"uri": "https://alejandrocoria.games/es/tags/Puzle/",
 	"title": "Puzle",
 	"tags": [],
@@ -150,7 +159,7 @@
 	"categories": [],
 	"series": [],
 	"description": "Alejandro Coria Games. Mi página...",
-	"content": "Soy un desarrollador de videojuegos independientes. Me gusta programar en C++, usar Godot y estoy empezando a crear mis primeros mods de Minecraft.\nSi te gusta mucho lo que hago, considera dar una donación :)\n"
+	"content": "Soy un desarrollador de videojuegos independientes. Me gusta programar en C++, usar Godot y estoy desarrollando el mod MapFrontiers para Minecraft (Java Edition).\nSi te gusta mucho lo que hago, considera convertirte en un Patron o dar una donación :)\n"
 },
 {
 	"uri": "https://alejandrocoria.games/es/tags/Software-libre/",

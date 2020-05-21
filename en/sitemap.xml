@@ -138,6 +138,16 @@
   
   <url>
     <loc>https://alejandrocoria.games/tags/index/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alejandrocoria.games/es/tags/index/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alejandrocoria.games/tags/index/"
+                />
   </url>
   
   <url>
