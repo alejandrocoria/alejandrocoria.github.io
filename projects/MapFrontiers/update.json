@@ -1,8 +1,8 @@
 {
   "homepage": "https://alejandrocoria.games/projects/MapFrontiers/",
   "promos": {
-    "1.12.2-latest": "1.3.3",
-    "1.12.2-recommended": "1.3.3"
+    "1.12.2-latest": "1.4.0",
+    "1.12.2-recommended": "1.4.0"
   },
   "1.12.2": {
     "1.0.0": "Initial release.",
@@ -12,6 +12,7 @@
     "1.3.0": "Now you can assign a banner to the frontiers.\nAdded a HUD that shows the name, owner and banner of the frontier you're on now.\nOn the settings screen (F8 default key) you can edit the frontiers and HUD options.",
     "1.3.1": "Fixed bug that prevented the frontier slice value from being saved.",
     "1.3.2": "Added Russian translation (Created by Articuno https://pixelmon.pro).\nFixed bug that crashed the client when a banner without patterns was assigned to a frontier.",
-    "1.3.3": "Fixed bug that forced the client to disconnect from the server when assigning a banner to a frontier."
+    "1.3.3": "Fixed bug that forced the client to disconnect from the server when assigning a banner to a frontier.",
+    "1.4.0": "Added personal frontiers!.\nAdded the personal frontier book.\nRestructured frontiers.dat and added unique ID to each frontier.\nThe book now shows the coordinates of the selected vertex.\nAdded credits tab to the settings screen.\nMade some optimizations and fixed some minor bugs."
   }
 }
