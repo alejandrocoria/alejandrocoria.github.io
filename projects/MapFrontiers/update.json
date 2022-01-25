@@ -3,10 +3,10 @@
   "promos": {
     "1.12.2-latest": "1.5.1",
     "1.12.2-recommended": "1.5.1",
-    "1.16.5-latest": "1.5.1",
-    "1.16.5-recommended": "1.5.1",
-    "1.17.1-latest": "1.5.1",
-    "1.17.1-recommended": "1.5.1"
+    "1.16.5-latest": "1.5.2",
+    "1.16.5-recommended": "1.5.2",
+    "1.17.1-latest": "1.5.2",
+    "1.17.1-recommended": "1.5.2"
   },
   "1.12.2": {
     "1.0.0": "Initial release.",
@@ -22,9 +22,11 @@
     "1.5.1": "Improved Russian translation."
   },
   "1.16.5": {
-    "1.5.1": "Added Spanish language."
+    "1.5.1": "Added Spanish language.",
+    "1.5.2": "Fixed: crash when many non-ascii characters are entered in a frontier name."
   },
   "1.17.1": {
-    "1.5.1": "Updated Forge and Journeymap."
+    "1.5.1": "Updated Forge and Journeymap.",
+    "1.5.2": "Fixed: crash when many non-ascii characters are entered in a frontier name."
   }
 }
