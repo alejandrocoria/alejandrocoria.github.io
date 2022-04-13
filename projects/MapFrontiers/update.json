@@ -3,14 +3,14 @@
   "promos": {
     "1.12.2-latest": "1.5.1",
     "1.12.2-recommended": "1.5.1",
-    "1.16.5-latest": "2.1.0",
-    "1.16.5-recommended": "2.1.0",
-    "1.17.1-latest": "2.1.0",
-    "1.17.1-recommended": "2.1.0",
-    "1.18.1-latest": "2.1.0",
-    "1.18.1-recommended": "2.1.0",
-    "1.18.2-latest": "2.1.0",
-    "1.18.2-recommended": "2.1.0"
+    "1.16.5-latest": "2.1.1",
+    "1.16.5-recommended": "2.1.1",
+    "1.17.1-latest": "2.1.1",
+    "1.17.1-recommended": "2.1.1",
+    "1.18.1-latest": "2.1.1",
+    "1.18.1-recommended": "2.1.1",
+    "1.18.2-latest": "2.1.1",
+    "1.18.2-recommended": "2.1.1"
   },
   "1.12.2": {
     "1.0.0": "Initial release.",
@@ -29,20 +29,24 @@
     "1.5.1": "Added Spanish language.",
     "1.5.2": "Fixed: crash when many non-ascii characters are entered in a frontier name.",
     "2.0.0": "Frontier books are no longer used, mod GUI is inside JourneyMap fullscreen map.",
-    "2.1.0": "Added: filters on frontier list."
+    "2.1.0": "Added: filters on frontier list.",
+    "2.1.1": "Fixed: mixed filterOwner and filterDimension configs causing a crash.\nFixed: filter configs are within the hud category."
   },
   "1.17.1": {
     "1.5.1": "Updated Forge and Journeymap.",
     "1.5.2": "Fixed: crash when many non-ascii characters are entered in a frontier name.",
     "2.0.0": "Frontier books are no longer used, mod GUI is inside JourneyMap fullscreen map.",
-    "2.1.0": "Added: filters on frontier list."
+    "2.1.0": "Added: filters on frontier list.",
+    "2.1.1": "Fixed: mixed filterOwner and filterDimension configs causing a crash.\nFixed: filter configs are within the hud category."
   },
   "1.18.1": {
     "2.0.0": "Frontier books are no longer used, mod GUI is inside JourneyMap fullscreen map.",
-    "2.1.0": "Added: filters on frontier list."
+    "2.1.0": "Added: filters on frontier list.",
+    "2.1.1": "Fixed: mixed filterOwner and filterDimension configs causing a crash.\nFixed: filter configs are within the hud category."
   },
   "1.18.2": {
     "2.0.0": "Frontier books are no longer used, mod GUI is inside JourneyMap fullscreen map.",
-    "2.1.0": "Added: filters on frontier list."
+    "2.1.0": "Added: filters on frontier list.",
+    "2.1.1": "Fixed: mixed filterOwner and filterDimension configs causing a crash.\nFixed: filter configs are within the hud category."
   }
 }
