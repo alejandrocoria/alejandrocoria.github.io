@@ -3,14 +3,14 @@
   "promos": {
     "1.12.2-latest": "1.5.1",
     "1.12.2-recommended": "1.5.1",
-    "1.16.5-latest": "2.1.3",
-    "1.16.5-recommended": "2.1.3",
+    "1.16.5-latest": "2.1.4",
+    "1.16.5-recommended": "2.1.4",
     "1.17.1-latest": "2.1.2",
     "1.17.1-recommended": "2.1.2",
-    "1.18.1-latest": "2.1.3",
-    "1.18.1-recommended": "2.1.3",
-    "1.18.2-latest": "2.1.3",
-    "1.18.2-recommended": "2.1.3"
+    "1.18.1-latest": "2.1.4",
+    "1.18.1-recommended": "2.1.4",
+    "1.18.2-latest": "2.1.4",
+    "1.18.2-recommended": "2.1.4"
   },
   "1.12.2": {
     "1.0.0": "Initial release.",
@@ -32,7 +32,8 @@
     "2.1.0": "Added: filters on frontier list.",
     "2.1.1": "Fixed: mixed filterOwner and filterDimension configs causing a crash.\nFixed: filter configs are within the hud category.",
     "2.1.2": "Added: color picker and palette.",
-    "2.1.3": "Added: initial shape for new frontiers.\nAdded: buttons to control the visibility of the name and owner of each frontier.\nAdded: random color button.\nAdded: inactive state to color picker when not allowed to modify frontier.\nAdded: hideNamesThatDontFit config.\nAdded: Spanish translations to the configs.\nChanged: improved the names of the configs in the settings screen.\nChanged: Select Frontier now locates the frontier on the map.\nChanged: improved the distribution of random colors.\nChanged: rearranged the buttons in Frontier Info to fit a 1080p screen scaled to 3.\nChanged: frontier list keeps selection when updated.\nChanged: settings tabs appear disabled if the player does not have permissions.\nRemoved: alwaysShowUnfinishedFrontiers config.\nFixed: opening context menu by editing a frontier on an unselected vertex does not select it.\nFixed: changing just the name of a frontier doesn't send the change to the server."
+    "2.1.3": "Added: initial shape for new frontiers.\nAdded: buttons to control the visibility of the name and owner of each frontier.\nAdded: random color button.\nAdded: inactive state to color picker when not allowed to modify frontier.\nAdded: hideNamesThatDontFit config.\nAdded: Spanish translations to the configs.\nChanged: improved the names of the configs in the settings screen.\nChanged: Select Frontier now locates the frontier on the map.\nChanged: improved the distribution of random colors.\nChanged: rearranged the buttons in Frontier Info to fit a 1080p screen scaled to 3.\nChanged: frontier list keeps selection when updated.\nChanged: settings tabs appear disabled if the player does not have permissions.\nRemoved: alwaysShowUnfinishedFrontiers config.\nFixed: opening context menu by editing a frontier on an unselected vertex does not select it.\nFixed: changing just the name of a frontier doesn't send the change to the server.",
+    "2.1.4": "Changed: Now a client that doesn't have the mod can connect to a server or LAN game that does\nRemoved: Frontier Book and Personal Frontier Book items"
   },
   "1.17.1": {
     "1.5.1": "Updated Forge and Journeymap.",
@@ -47,13 +48,15 @@
     "2.1.0": "Added: filters on frontier list.",
     "2.1.1": "Fixed: mixed filterOwner and filterDimension configs causing a crash.\nFixed: filter configs are within the hud category.",
     "2.1.2": "Added: color picker and palette.",
-    "2.1.3": "Added: initial shape for new frontiers.\nAdded: buttons to control the visibility of the name and owner of each frontier.\nAdded: random color button.\nAdded: inactive state to color picker when not allowed to modify frontier.\nAdded: hideNamesThatDontFit config.\nAdded: Spanish translations to the configs.\nChanged: improved the names of the configs in the settings screen.\nChanged: Select Frontier now locates the frontier on the map.\nChanged: improved the distribution of random colors.\nChanged: rearranged the buttons in Frontier Info to fit a 1080p screen scaled to 3.\nChanged: frontier list keeps selection when updated.\nChanged: settings tabs appear disabled if the player does not have permissions.\nRemoved: alwaysShowUnfinishedFrontiers config.\nFixed: opening context menu by editing a frontier on an unselected vertex does not select it.\nFixed: changing just the name of a frontier doesn't send the change to the server."
+    "2.1.3": "Added: initial shape for new frontiers.\nAdded: buttons to control the visibility of the name and owner of each frontier.\nAdded: random color button.\nAdded: inactive state to color picker when not allowed to modify frontier.\nAdded: hideNamesThatDontFit config.\nAdded: Spanish translations to the configs.\nChanged: improved the names of the configs in the settings screen.\nChanged: Select Frontier now locates the frontier on the map.\nChanged: improved the distribution of random colors.\nChanged: rearranged the buttons in Frontier Info to fit a 1080p screen scaled to 3.\nChanged: frontier list keeps selection when updated.\nChanged: settings tabs appear disabled if the player does not have permissions.\nRemoved: alwaysShowUnfinishedFrontiers config.\nFixed: opening context menu by editing a frontier on an unselected vertex does not select it.\nFixed: changing just the name of a frontier doesn't send the change to the server.",
+    "2.1.4": "Changed: Now a client that doesn't have the mod can connect to a server or LAN game that does\nRemoved: Frontier Book and Personal Frontier Book items"
   },
   "1.18.2": {
     "2.0.0": "Frontier books are no longer used, mod GUI is inside JourneyMap fullscreen map.",
     "2.1.0": "Added: filters on frontier list.",
     "2.1.1": "Fixed: mixed filterOwner and filterDimension configs causing a crash.\nFixed: filter configs are within the hud category.",
     "2.1.2": "Added: color picker and palette.",
-    "2.1.3": "Added: initial shape for new frontiers.\nAdded: buttons to control the visibility of the name and owner of each frontier.\nAdded: random color button.\nAdded: inactive state to color picker when not allowed to modify frontier.\nAdded: hideNamesThatDontFit config.\nAdded: Spanish translations to the configs.\nChanged: improved the names of the configs in the settings screen.\nChanged: Select Frontier now locates the frontier on the map.\nChanged: improved the distribution of random colors.\nChanged: rearranged the buttons in Frontier Info to fit a 1080p screen scaled to 3.\nChanged: frontier list keeps selection when updated.\nChanged: settings tabs appear disabled if the player does not have permissions.\nRemoved: alwaysShowUnfinishedFrontiers config.\nFixed: opening context menu by editing a frontier on an unselected vertex does not select it.\nFixed: changing just the name of a frontier doesn't send the change to the server."
+    "2.1.3": "Added: initial shape for new frontiers.\nAdded: buttons to control the visibility of the name and owner of each frontier.\nAdded: random color button.\nAdded: inactive state to color picker when not allowed to modify frontier.\nAdded: hideNamesThatDontFit config.\nAdded: Spanish translations to the configs.\nChanged: improved the names of the configs in the settings screen.\nChanged: Select Frontier now locates the frontier on the map.\nChanged: improved the distribution of random colors.\nChanged: rearranged the buttons in Frontier Info to fit a 1080p screen scaled to 3.\nChanged: frontier list keeps selection when updated.\nChanged: settings tabs appear disabled if the player does not have permissions.\nRemoved: alwaysShowUnfinishedFrontiers config.\nFixed: opening context menu by editing a frontier on an unselected vertex does not select it.\nFixed: changing just the name of a frontier doesn't send the change to the server.",
+    "2.1.4": "Changed: Now a client that doesn't have the mod can connect to a server or LAN game that does\nRemoved: Frontier Book and Personal Frontier Book items"
   }
 }
