@@ -24,7 +24,7 @@
 	"categories": [],
 	"series": [],
 	"description": "Mod de Minecraft que te permite cambiar automáticamente el preset del minimapa de Journey Map cuando cambias de dimensión.",
-	"content": "Este mod es un complemento para Journey Map que cambia el preset del minimapa cuando cambias de dimensión. Simplemente presiona la tecla de Cambiar Acción (O por defecto) y puedes cambiar qué pasa cuando entras a la dimensión actual.\nLas opciones son:\n Nada (lo que pasa normalmente sin el mod) Preset 1 (pone automáticamente el preset 1) Preset 2 (pone automáticamente el preset 2) Acción por Defecto (lo que pasa en cualquier dimensión que no configuraste todavía)  Funciona en el cliente y no se necesita en el servidor.\nNecesita Journey Map 1.12.2-5.5.5.\n"
+	"content": "Este mod es un complemento para Journey Map que cambia el preset del minimapa cuando cambias de dimensión. Es para el cliente (Forge o Fabric), no se necesita en el servidor.\nPara configurarlo usa el botón en la derecha en el mapa de pantalla completa de JourneyMap.\n"
 },
 {
 	"uri": "https://alejandrocoria.games/es/projects/P-Changer/",

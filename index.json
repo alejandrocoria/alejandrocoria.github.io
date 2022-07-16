@@ -24,7 +24,7 @@
 	"categories": [],
 	"series": [],
 	"description": "Minecraft mod that allows you to automatically change the minimap preset of Journey Map when you change the dimension.",
-	"content": "This mod is an addon for Journey Map that changes the minimap preset when you change dimension. Simply press the Change Action key (O by default) and you can change what happens when you enter the current dimension.\nThe options are:\n Nothing (what normally happens without the mod) Preset 1 (automatically sets preset 1) Preset 2 (automatically sets preset 2) Default Action (what happens in any dimension that you have not configured yet)  It works on the client and is not needed on the server.\nNeed Journey Map 1.12.2-5.5.5.\n"
+	"content": "This mod is an addon for Journey Map that changes the minimap preset when you change dimension. It is for the client (Forge or Fabric), it is not needed on the server.\nTo configure it, use the button to the right on the JourneyMap fullscreen map.\n"
 },
 {
 	"uri": "https://alejandrocoria.games/projects/P-Changer/",
