@@ -3,16 +3,16 @@
   "promos": {
     "1.12.2-latest": "1.5.1",
     "1.12.2-recommended": "1.5.1",
-    "1.16.5-latest": "2.3.2",
-    "1.16.5-recommended": "2.3.2",
+    "1.16.5-latest": "2.3.3",
+    "1.16.5-recommended": "2.3.3",
     "1.17.1-latest": "2.1.2",
     "1.17.1-recommended": "2.1.2",
     "1.18.1-latest": "2.2.0",
     "1.18.1-recommended": "2.2.0",
-    "1.18.2-latest": "2.3.2",
-    "1.18.2-recommended": "2.3.2",
-    "1.19-latest": "2.3.2",
-    "1.19-recommended": "2.3.2"
+    "1.18.2-latest": "2.3.3",
+    "1.18.2-recommended": "2.3.3",
+    "1.19-latest": "2.3.3",
+    "1.19-recommended": "2.3.3"
   },
   "1.12.2": {
     "1.0.0": "Initial release.",
@@ -39,7 +39,8 @@
     "2.2.0": "Added: chunk mode to frontiers.\nChanged: option buttons (enums and numbers) can now be scrolled with the mouse.\nChanged: delayed overlay update until render tick.",
     "2.3.0": "Added: announcement in chat when entering and leaving a frontier.\nChanged: automatically scales the GUI on each screen to fit.",
     "2.3.1": "Fixed: crash when entering or exiting a frontier with announcement in chat.",
-    "2.3.2": "Added: es_ec lang (Ecuador)."
+    "2.3.2": "Added: es_ec lang (Ecuador).",
+    "2.3.3": "Fixed: creating a personal frontier creates a global frontier."
   },
   "1.17.1": {
     "1.5.1": "Updated Forge and Journeymap.",
@@ -68,11 +69,13 @@
     "2.2.0": "Added: chunk mode to frontiers.\nChanged: option buttons (enums and numbers) can now be scrolled with the mouse.\nChanged: delayed overlay update until render tick.",
     "2.3.0": "Added: announcement in chat when entering and leaving a frontier.\nChanged: automatically scales the GUI on each screen to fit.",
     "2.3.1": "Fixed: crash when entering or exiting a frontier with announcement in chat.",
-    "2.3.2": "Added: es_ec lang (Ecuador)."
+    "2.3.2": "Added: es_ec lang (Ecuador).",
+    "2.3.3": "Fixed: creating a personal frontier creates a global frontier."
   },
   "1.19": {
     "2.3.0": "Added: announcement in chat when entering and leaving a frontier.\nChanged: automatically scales the GUI on each screen to fit.",
     "2.3.1": "Fixed: crash when entering or exiting a frontier with announcement in chat.",
-    "2.3.2": "Added: es_ec lang (Ecuador).\nFixed: crash from previous versions of forge"
+    "2.3.2": "Added: es_ec lang (Ecuador).\nFixed: crash from previous versions of forge",
+    "2.3.3": "Fixed: creating a personal frontier creates a global frontier."
   }
 }
