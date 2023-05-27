@@ -3,16 +3,24 @@
   "promos": {
     "1.12.2-latest": "1.5.1",
     "1.12.2-recommended": "1.5.1",
-    "1.16.5-latest": "2.3.3",
-    "1.16.5-recommended": "2.3.3",
+    "1.16.5-latest": "2.4.0",
+    "1.16.5-recommended": "2.4.0",
     "1.17.1-latest": "2.1.2",
     "1.17.1-recommended": "2.1.2",
     "1.18.1-latest": "2.2.0",
     "1.18.1-recommended": "2.2.0",
-    "1.18.2-latest": "2.3.3",
-    "1.18.2-recommended": "2.3.3",
-    "1.19-latest": "2.3.3",
-    "1.19-recommended": "2.3.3"
+    "1.18.2-latest": "2.5.0",
+    "1.18.2-recommended": "2.5.0",
+    "1.19-latest": "2.3.4",
+    "1.19-recommended": "2.3.4",
+    "1.19.1-latest": "2.5.0",
+    "1.19.1-recommended": "2.5.0",
+    "1.19.2-latest": "2.5.0",
+    "1.19.2-recommended": "2.5.0",
+    "1.19.3-latest": "2.5.0",
+    "1.19.3-recommended": "2.5.0",
+    "1.19.4-latest": "2.5.0",
+    "1.19.4-recommended": "2.5.0"
   },
   "1.12.2": {
     "1.0.0": "Initial release.",
@@ -40,7 +48,9 @@
     "2.3.0": "Added: announcement in chat when entering and leaving a frontier.\nChanged: automatically scales the GUI on each screen to fit.",
     "2.3.1": "Fixed: crash when entering or exiting a frontier with announcement in chat.",
     "2.3.2": "Added: es_ec lang (Ecuador).",
-    "2.3.3": "Fixed: creating a personal frontier creates a global frontier."
+    "2.3.3": "Fixed: creating a personal frontier creates a global frontier.",
+    "2.3.4": "Fixed: crashes caused by handling client network packets in the wrong thread.",
+    "2.4.0": "Added: pt_br.lang (Brazilian Portuguese).\nAdded: Chinese simplified translation (thanks to dlfnn).\nChanged: now a client with the mod can connect to a server or LAN game without the mod.\nFixed: crash when editing a chunk frontier too fast.\nFixed: Vertices disappear after editing.\nFixed: various bugs in delete and visible buttons."
   },
   "1.17.1": {
     "1.5.1": "Updated Forge and Journeymap.",
@@ -70,12 +80,31 @@
     "2.3.0": "Added: announcement in chat when entering and leaving a frontier.\nChanged: automatically scales the GUI on each screen to fit.",
     "2.3.1": "Fixed: crash when entering or exiting a frontier with announcement in chat.",
     "2.3.2": "Added: es_ec lang (Ecuador).",
-    "2.3.3": "Fixed: creating a personal frontier creates a global frontier."
+    "2.3.3": "Fixed: creating a personal frontier creates a global frontier.",
+    "2.3.4": "Fixed: crashes caused by handling client network packets in the wrong thread.",
+    "2.4.0": "Added: pt_br.lang (Brazilian Portuguese).\nAdded: Chinese simplified translation (thanks to dlfnn).\nChanged: now a client with the mod can connect to a server or LAN game without the mod.\nFixed: Vertices disappear after editing.\nFixed: various bugs in delete and visible buttons.",
+    "2.5.0": "Added: Frontier announcement in title.\nAdded: Option to announce or not unnamed frontiers.\nAdded: Copy and Paste buttons for frontier info.\nAdded: Undo and Redo buttons for frontier info.\nChanged: Splitted visibility options between fullscreen map and minimap.\nFixed: Exception when game was closed on frontier info screen.\nFixed: Deleting frontier on info screen crashes.\nFixed: filter options not being saved.\nFixed: tooltips getting stuck."
   },
   "1.19": {
     "2.3.0": "Added: announcement in chat when entering and leaving a frontier.\nChanged: automatically scales the GUI on each screen to fit.",
     "2.3.1": "Fixed: crash when entering or exiting a frontier with announcement in chat.",
     "2.3.2": "Added: es_ec lang (Ecuador).\nFixed: crash from previous versions of forge",
-    "2.3.3": "Fixed: creating a personal frontier creates a global frontier."
+    "2.3.3": "Fixed: creating a personal frontier creates a global frontier.",
+    "2.3.4": "Fixed: crashes caused by handling client network packets in the wrong thread."
+  },
+  "1.19.1": {
+    "2.4.0": "Added: pt_br.lang (Brazilian Portuguese).\nAdded: Chinese simplified translation (thanks to dlfnn).\nChanged: now a client with the mod can connect to a server or LAN game without the mod.\nFixed: Vertices disappear after editing.\nFixed: various bugs in delete and visible buttons.",
+    "2.5.0": "Added: Frontier announcement in title.\nAdded: Option to announce or not unnamed frontiers.\nAdded: Copy and Paste buttons for frontier info.\nAdded: Undo and Redo buttons for frontier info.\nChanged: Splitted visibility options between fullscreen map and minimap.\nFixed: Exception when game was closed on frontier info screen.\nFixed: Deleting frontier on info screen crashes.\nFixed: filter options not being saved.\nFixed: tooltips getting stuck."
+  },
+  "1.19.2": {
+    "2.4.0": "Added: pt_br.lang (Brazilian Portuguese).\nAdded: Chinese simplified translation (thanks to dlfnn).\nChanged: now a client with the mod can connect to a server or LAN game without the mod.\nFixed: Vertices disappear after editing.\nFixed: various bugs in delete and visible buttons.",
+    "2.5.0": "Added: Frontier announcement in title.\nAdded: Option to announce or not unnamed frontiers.\nAdded: Copy and Paste buttons for frontier info.\nAdded: Undo and Redo buttons for frontier info.\nChanged: Splitted visibility options between fullscreen map and minimap.\nFixed: Exception when game was closed on frontier info screen.\nFixed: Deleting frontier on info screen crashes.\nFixed: filter options not being saved.\nFixed: tooltips getting stuck."
+  },
+  "1.19.3": {
+    "2.4.0": "Added: pt_br.lang (Brazilian Portuguese).\nAdded: Chinese simplified translation (thanks to dlfnn).\nChanged: now a client with the mod can connect to a server or LAN game without the mod.\nFixed: Vertices disappear after editing.\nFixed: various bugs in delete and visible buttons.",
+    "2.5.0": "Added: Frontier announcement in title.\nAdded: Option to announce or not unnamed frontiers.\nAdded: Copy and Paste buttons for frontier info.\nAdded: Undo and Redo buttons for frontier info.\nChanged: Splitted visibility options between fullscreen map and minimap.\nFixed: Exception when game was closed on frontier info screen.\nFixed: Deleting frontier on info screen crashes.\nFixed: filter options not being saved.\nFixed: tooltips getting stuck."
+  },
+  "1.19.4": {
+    "2.5.0": "Added: Frontier announcement in title.\nAdded: Option to announce or not unnamed frontiers.\nAdded: Copy and Paste buttons for frontier info.\nAdded: Undo and Redo buttons for frontier info.\nChanged: Splitted visibility options between fullscreen map and minimap.\nFixed: Exception when game was closed on frontier info screen.\nFixed: Deleting frontier on info screen crashes.\nFixed: filter options not being saved.\nFixed: tooltips getting stuck."
   }
 }
