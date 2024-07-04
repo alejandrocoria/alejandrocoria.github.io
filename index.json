@@ -1,21 +1,12 @@
 [
 {
-	"uri": "https://alejandrocoria.games/projects/Colorful_Ball/",
-	"title": "Colorful Ball",
-	"tags": ["Videogame", "Android", "Puzzle", "Godot"],
-	"categories": [],
-	"series": [],
-	"description": "Free puzzle game created in Godot.",
-	"content": "Colorful Ball is a puzzle that requires ingenuity and skill. You control a ball that can change color. You need the correct color to be able to go through the correct walls and get to the next checkpoint. You will find turrets that will shoot at different times and that you will have to go over to get their color.\nYou will also get different skills that will be useful to solve the challenges.\nMain features:\nOver 60 challenging puzzles with a progressive difficulty A continuous map without loading screens Achievements with which you can unlock extra puzzles On-screen joystick options to choose the size and type of movement that is most comfortable for you Interesting graphics, dynamic reflections on the ball (can be deactivated in the options) Ads can only appear when you lose so that it does not interrupt you while you advance "
-},
-{
 	"uri": "https://alejandrocoria.games/projects/MapFrontiers/",
 	"title": "Map​Frontiers",
 	"tags": ["Minecraft Mod", "Map", "Addon", "Java", "Free Software"],
 	"categories": [],
 	"series": [],
 	"description": "Minecraft mod that allows you to divide the map into regions and assign them names, colors and a banner.",
-	"content": "This mod is an addon for Journey Map that allows you to divide the map into regions and assign them names, colors and a banner.\nNeed Journey Map 1.12.2-5.7.0 or 1.16.5-5.7.3.\n"
+	"content": "This mod is an addon for Journey Map that allows you to divide the map into regions and assign them names, colors and a banner.\n"
 },
 {
 	"uri": "https://alejandrocoria.games/projects/AutoPresetMap/",
@@ -54,15 +45,6 @@
 	"content": ""
 },
 {
-	"uri": "https://alejandrocoria.games/tags/Android/",
-	"title": "Android",
-	"tags": [],
-	"categories": [],
-	"series": [],
-	"description": "",
-	"content": ""
-},
-{
 	"uri": "https://alejandrocoria.games/tags/Flash/",
 	"title": "Flash",
 	"tags": [],
@@ -74,15 +56,6 @@
 {
 	"uri": "https://alejandrocoria.games/tags/Free-Software/",
 	"title": "Free Software",
-	"tags": [],
-	"categories": [],
-	"series": [],
-	"description": "",
-	"content": ""
-},
-{
-	"uri": "https://alejandrocoria.games/tags/Godot/",
-	"title": "Godot",
 	"tags": [],
 	"categories": [],
 	"series": [],
@@ -177,7 +150,7 @@
 	"categories": [],
 	"series": [],
 	"description": "Trademark and logo usage on the website.",
-	"content": "All product names, logos, and brands are property of their respective owners. All company, product and service names used in this website are for identification purposes only. Use of these names, logos, and brands does not imply endorsement.\nGoogle Play and the Google Play logo are trademarks of Google LLC.\nGitHub and the GitHub logo are trademarks of GitHub, Inc.\nitch.io and the itch.io logo are trademarks of Itch Corp.\nKongregate and the Kongregate logos are trademarks of Kongregate Inc.\nLinkedIn and the LinkedIn logo are trademarks of LinkedIn Corporation.\nThe Stack Exchange name and logo are trademarks of Stack Exchange Inc.\nThe Stack Overflow name and logo are trademarks of Stack Exchange Inc.\nCurseForge and the CurseForge logo are trademarks of Twitch Interactive, Inc.\nTwitter and the Twitter logo are trademarks of Twitter, Inc.\n"
+	"content": "All product names, logos, and brands are property of their respective owners. All company, product and service names used in this website are for identification purposes only. Use of these names, logos, and brands does not imply endorsement.\nGoogle Play and the Google Play logo are trademarks of Google LLC.\nGitHub and the GitHub logo are trademarks of GitHub, Inc.\nitch.io and the itch.io logo are trademarks of Itch Corp.\nKongregate and the Kongregate logos are trademarks of Kongregate Inc.\nLinkedIn and the LinkedIn logo are trademarks of LinkedIn Corporation.\nThe Stack Exchange name and logo are trademarks of Stack Exchange Inc.\nThe Stack Overflow name and logo are trademarks of Stack Exchange Inc.\nCurseForge and the CurseForge logo are trademarks of Overwolf.\nModrinth and the Modrinth logo are trademarks of Rinth, Inc.\nX and the X logo are trademarks of X Corp.\n"
 },
 {
 	"uri": "https://alejandrocoria.games/tags/Videogame/",

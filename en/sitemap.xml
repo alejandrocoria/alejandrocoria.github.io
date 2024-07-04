@@ -3,20 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://alejandrocoria.games/projects/Colorful_Ball/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://alejandrocoria.games/es/projects/Colorful_Ball/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://alejandrocoria.games/projects/Colorful_Ball/"
-                />
-  </url>
-  
-  <url>
     <loc>https://alejandrocoria.games/projects/MapFrontiers/</loc>
     <xhtml:link
                 rel="alternate"
@@ -77,20 +63,6 @@
   </url>
   
   <url>
-    <loc>https://alejandrocoria.games/tags/Android/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://alejandrocoria.games/es/tags/Android/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://alejandrocoria.games/tags/Android/"
-                />
-  </url>
-  
-  <url>
     <loc>https://alejandrocoria.games/tags/Flash/</loc>
     <xhtml:link
                 rel="alternate"
@@ -106,20 +78,6 @@
   
   <url>
     <loc>https://alejandrocoria.games/tags/Free-Software/</loc>
-  </url>
-  
-  <url>
-    <loc>https://alejandrocoria.games/tags/Godot/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://alejandrocoria.games/es/tags/Godot/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://alejandrocoria.games/tags/Godot/"
-                />
   </url>
   
   <url>

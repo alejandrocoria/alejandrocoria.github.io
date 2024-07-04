@@ -1,21 +1,12 @@
 [
 {
-	"uri": "https://alejandrocoria.games/es/projects/Colorful_Ball/",
-	"title": "Colorful Ball",
-	"tags": ["Videojuego", "Android", "Puzle", "Godot"],
-	"categories": [],
-	"series": [],
-	"description": "Juego de puzles gratuito creado en Godot.",
-	"content": "Colorful Ball es un puzle que requiere ingenio y habilidad. Controlas una bola que puede cambiar de color. Necesitas el color correcto para poder pasar por las paredes correctas y llegar al siguiente checkpoint. Te encontrarás con torretas que te dispararán a diferentes tiempos y que tendrás que pasar por encima para obtener su color.\nTambién conseguirás diferentes habilidades que te serán útiles para resolver los desafíos.\nCaracterísticas principales:\nMás de 60 puzles desafiantes y con una dificultad progresiva Un mapa continuo sin pantallas de carga Logros con los que puedes desbloquear puzles extra Opciones del joystick en pantalla para poder elegir el tamaño y tipo de movimiento que más cómodo te parezca Gráficos interesantes, reflejos dinámicos en la bola (se pueden desactivar en las opciones) La publicidad solo puede aparecer cuando pierdes para no interrumpirte mientras avanzas "
-},
-{
 	"uri": "https://alejandrocoria.games/es/projects/MapFrontiers/",
 	"title": "Map​Frontiers",
 	"tags": ["Mod de Minecraft", "Mapa", "Complemento", "Java", "Software libre"],
 	"categories": [],
 	"series": [],
 	"description": "Mod de Minecraft que te permite dividir el mapa en regiones y asignarles nombre, color y bandera.",
-	"content": "Este mod es un complemento para Journey Map que te permite dividir el mapa en regiones y asignarles nombre, color y bandera.\nNecesita Journey Map 1.12.2-5.7.0 o 1.16.5-5.7.3.\n"
+	"content": "Este mod es un complemento para Journey Map que te permite dividir el mapa en regiones y asignarles nombre, color y bandera.\n"
 },
 {
 	"uri": "https://alejandrocoria.games/es/projects/AutoPresetMap/",
@@ -36,22 +27,13 @@
 	"content": "Necesitas activar adobe flash player para jugar este juego.\n"
 },
 {
-	"uri": "https://alejandrocoria.games/es/tags/Android/",
-	"title": "Android",
-	"tags": [],
-	"categories": [],
-	"series": [],
-	"description": "",
-	"content": ""
-},
-{
 	"uri": "https://alejandrocoria.games/es/trademark/",
 	"title": "Aviso Legal Sobre Marcas Comerciales",
 	"tags": [],
 	"categories": [],
 	"series": [],
 	"description": "Uso de marca comercial y logo en la página.",
-	"content": "Todos los nombre de productos, logotipos y marcas son propiedad de sus respectivos dueños. Todos los nombres de empresas, productos y servicios utilizados en este sitio web son solo para fines de identificación. El uso de estos nombres, logotipos y marcas no implica aprobación.\nGoogle Play y el logotipo de Google Play son marcas comerciales de Google LLC.\nGitHub y el logotipo de GitHub son marcas comerciales de GitHub, Inc.\nitch.io y el logotipo de itch.io son marcas comerciales de Itch Corp.\nKongregate y los logotipos de Kongregate son marcas comerciales de Kongregate Inc.\nLinkedIn y el logotipo de LinkedIn son marcas comerciales de LinkedIn Corporation.\nEl nombre y logotipo de Stack Exchange son marcas comerciales de Stack Exchange Inc.\nEl nombre y logotipo de Stack Overflow son marcas comerciales de Stack Exchange Inc.\nCurseForge y el logotipo de CurseForge son marcas comerciales de Twitch Interactive, Inc.\nTwitter y el logotipo de Twitter son marcas comerciales de Twitter, Inc.\n"
+	"content": "Todos los nombre de productos, logotipos y marcas son propiedad de sus respectivos dueños. Todos los nombres de empresas, productos y servicios utilizados en este sitio web son solo para fines de identificación. El uso de estos nombres, logotipos y marcas no implica aprobación.\nGoogle Play y el logotipo de Google Play son marcas comerciales de Google LLC.\nGitHub y el logotipo de GitHub son marcas comerciales de GitHub, Inc.\nitch.io y el logotipo de itch.io son marcas comerciales de Itch Corp.\nKongregate y los logotipos de Kongregate son marcas comerciales de Kongregate Inc.\nLinkedIn y el logotipo de LinkedIn son marcas comerciales de LinkedIn Corporation.\nEl nombre y logotipo de Stack Exchange son marcas comerciales de Stack Exchange Inc.\nEl nombre y logotipo de Stack Overflow son marcas comerciales de Stack Exchange Inc.\nCurseForge y el logotipo de CurseForge son marcas comerciales de Overwolf.\nModrinth y el logotipo de Modrinth son marcas comerciales de Rinth, Inc.\nX y el logotipo de X son marcas comerciales de X Corp.\n"
 },
 {
 	"uri": "https://alejandrocoria.games/es/tags/Complemento/",
@@ -65,15 +47,6 @@
 {
 	"uri": "https://alejandrocoria.games/es/tags/Flash/",
 	"title": "Flash",
-	"tags": [],
-	"categories": [],
-	"series": [],
-	"description": "",
-	"content": ""
-},
-{
-	"uri": "https://alejandrocoria.games/es/tags/Godot/",
-	"title": "Godot",
 	"tags": [],
 	"categories": [],
 	"series": [],
