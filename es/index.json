@@ -9,6 +9,33 @@
 	"content": "Este mod es un complemento para Journey Map que te permite dividir el mapa en regiones y asignarles nombre, color y bandera.\n"
 },
 {
+	"uri": "https://alejandrocoria.games/es/projects/JourneyMap/",
+	"title": "Journey​Map",
+	"tags": ["Minecraft Mod", "Java", "Free Software"],
+	"categories": [],
+	"series": [],
+	"description": "Mapeo en tiempo real en el juego o en un explorador web a medida que exploras.",
+	"content": "Aporto programación adicional a JourneyMap, el mod popular de Minecraft.\n"
+},
+{
+	"uri": "https://alejandrocoria.games/es/projects/ImageTitles/",
+	"title": "Image​Titles",
+	"tags": ["Minecraft Mod", "Java", "Free Software"],
+	"categories": [],
+	"series": [],
+	"description": "Reemplaza títulos de Minecraft por imágenes personalizadas.",
+	"content": "Reemplaza títulos de Minecraft por imágenes personalizadas. Crea un pack de recursos con las imágenes y podrás mostrarselas a todos los jugadores de tu servidor.\nVe a ImageTitles Example para ver instrucciones de cómo crear un pack de recursos.\nNormal: ImageTitles: "
+},
+{
+	"uri": "https://alejandrocoria.games/es/projects/SpelunkersTorch/",
+	"title": "Spelunker&#39;s Torch",
+	"tags": ["Minecraft Mod", "Java", "Free Software"],
+	"categories": [],
+	"series": [],
+	"description": "Mod de Minecraft que te da antorchas que te muestran el camino de regreso.",
+	"content": "Ve a una cueva con estas antorchas y siempre sabrás donde está la salida.\nEstas antorchas iluminan igual que las comunes pero también apuntan a la antorcha colocada anteriormente, de esa forma al explorar una cueva siempre sabrás como regresar a la entrada.\n"
+},
+{
 	"uri": "https://alejandrocoria.games/es/projects/AutoPresetMap/",
 	"title": "Auto​Preset​Map",
 	"tags": ["Mod de Minecraft", "Mapa", "Complemento", "Java", "Software libre"],
@@ -54,6 +81,15 @@
 	"content": ""
 },
 {
+	"uri": "https://alejandrocoria.games/es/tags/Free-Software/",
+	"title": "Free Software",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
 	"uri": "https://alejandrocoria.games/es/tags/Haxe/",
 	"title": "Haxe",
 	"tags": [],
@@ -83,6 +119,15 @@
 {
 	"uri": "https://alejandrocoria.games/es/tags/Mapa/",
 	"title": "Mapa",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://alejandrocoria.games/es/tags/Minecraft-Mod/",
+	"title": "Minecraft Mod",
 	"tags": [],
 	"categories": [],
 	"series": [],

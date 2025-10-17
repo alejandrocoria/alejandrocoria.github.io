@@ -17,6 +17,48 @@
   </url>
   
   <url>
+    <loc>https://alejandrocoria.games/es/projects/JourneyMap/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alejandrocoria.games/projects/JourneyMap/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alejandrocoria.games/es/projects/JourneyMap/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://alejandrocoria.games/es/projects/ImageTitles/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alejandrocoria.games/projects/ImageTitles/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alejandrocoria.games/es/projects/ImageTitles/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://alejandrocoria.games/es/projects/SpelunkersTorch/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alejandrocoria.games/projects/SpelunkersTorch/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alejandrocoria.games/es/projects/SpelunkersTorch/"
+                />
+  </url>
+  
+  <url>
     <loc>https://alejandrocoria.games/es/projects/AutoPresetMap/</loc>
     <xhtml:link
                 rel="alternate"
@@ -77,6 +119,20 @@
   </url>
   
   <url>
+    <loc>https://alejandrocoria.games/es/tags/Free-Software/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alejandrocoria.games/tags/Free-Software/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alejandrocoria.games/es/tags/Free-Software/"
+                />
+  </url>
+  
+  <url>
     <loc>https://alejandrocoria.games/es/tags/Haxe/</loc>
     <xhtml:link
                 rel="alternate"
@@ -120,6 +176,20 @@
   
   <url>
     <loc>https://alejandrocoria.games/es/tags/Mapa/</loc>
+  </url>
+  
+  <url>
+    <loc>https://alejandrocoria.games/es/tags/Minecraft-Mod/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alejandrocoria.games/tags/Minecraft-Mod/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alejandrocoria.games/es/tags/Minecraft-Mod/"
+                />
   </url>
   
   <url>

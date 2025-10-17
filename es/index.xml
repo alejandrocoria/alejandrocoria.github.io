@@ -25,6 +25,36 @@
       </item>
       
       <item>
+        <title>Journey​Map</title>
+        <link>https://alejandrocoria.games/es/projects/JourneyMap/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>contact@alejandrocoria.games (Alejandro Coria)</author>
+        <guid>https://alejandrocoria.games/es/projects/JourneyMap/</guid>
+        <description>Aporto programación adicional a JourneyMap, el mod popular de Minecraft.</description>
+      </item>
+      
+      <item>
+        <title>Image​Titles</title>
+        <link>https://alejandrocoria.games/es/projects/ImageTitles/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>contact@alejandrocoria.games (Alejandro Coria)</author>
+        <guid>https://alejandrocoria.games/es/projects/ImageTitles/</guid>
+        <description>Reemplaza títulos de Minecraft por imágenes personalizadas. Crea un pack de recursos con las imágenes y podrás mostrarselas a todos los jugadores de tu servidor.
+Ve a ImageTitles Example para ver instrucciones de cómo crear un pack de recursos.
+Normal: ImageTitles: </description>
+      </item>
+      
+      <item>
+        <title>Spelunker&#39;s Torch</title>
+        <link>https://alejandrocoria.games/es/projects/SpelunkersTorch/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>contact@alejandrocoria.games (Alejandro Coria)</author>
+        <guid>https://alejandrocoria.games/es/projects/SpelunkersTorch/</guid>
+        <description>Ve a una cueva con estas antorchas y siempre sabrás donde está la salida.
+Estas antorchas iluminan igual que las comunes pero también apuntan a la antorcha colocada anteriormente, de esa forma al explorar una cueva siempre sabrás como regresar a la entrada.</description>
+      </item>
+      
+      <item>
         <title>Auto​Preset​Map</title>
         <link>https://alejandrocoria.games/es/projects/AutoPresetMap/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

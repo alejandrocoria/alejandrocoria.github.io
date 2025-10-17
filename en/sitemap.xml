@@ -17,6 +17,48 @@
   </url>
   
   <url>
+    <loc>https://alejandrocoria.games/projects/JourneyMap/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alejandrocoria.games/es/projects/JourneyMap/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alejandrocoria.games/projects/JourneyMap/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://alejandrocoria.games/projects/ImageTitles/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alejandrocoria.games/es/projects/ImageTitles/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alejandrocoria.games/projects/ImageTitles/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://alejandrocoria.games/projects/SpelunkersTorch/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alejandrocoria.games/es/projects/SpelunkersTorch/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alejandrocoria.games/projects/SpelunkersTorch/"
+                />
+  </url>
+  
+  <url>
     <loc>https://alejandrocoria.games/projects/AutoPresetMap/</loc>
     <xhtml:link
                 rel="alternate"
@@ -78,6 +120,16 @@
   
   <url>
     <loc>https://alejandrocoria.games/tags/Free-Software/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alejandrocoria.games/es/tags/Free-Software/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alejandrocoria.games/tags/Free-Software/"
+                />
   </url>
   
   <url>
@@ -128,6 +180,16 @@
   
   <url>
     <loc>https://alejandrocoria.games/tags/Minecraft-Mod/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alejandrocoria.games/es/tags/Minecraft-Mod/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alejandrocoria.games/tags/Minecraft-Mod/"
+                />
   </url>
   
   <url>

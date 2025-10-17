@@ -9,6 +9,33 @@
 	"content": "This mod is an addon for Journey Map that allows you to divide the map into regions and assign them names, colors and a banner.\n"
 },
 {
+	"uri": "https://alejandrocoria.games/projects/JourneyMap/",
+	"title": "Journey​Map",
+	"tags": ["Minecraft Mod", "Java", "Free Software"],
+	"categories": [],
+	"series": [],
+	"description": "Real-time mapping in game or in a web browser as you explore.",
+	"content": "I provide additional programming to JourneyMap, the popular Minecraft mod.\n"
+},
+{
+	"uri": "https://alejandrocoria.games/projects/ImageTitles/",
+	"title": "Image​Titles",
+	"tags": ["Minecraft Mod", "Java", "Free Software"],
+	"categories": [],
+	"series": [],
+	"description": "Replace Minecraft titles with custom images.",
+	"content": "Replace Minecraft titles with custom images. Create a resource pack with the images and you\u0026rsquo;ll be able to display them to all players on your server.\nGo to ImageTitles Example for instructions on how to create a resource pack.\nVanilla: ImageTitles: "
+},
+{
+	"uri": "https://alejandrocoria.games/projects/SpelunkersTorch/",
+	"title": "Spelunker&#39;s Torch",
+	"tags": ["Minecraft Mod", "Java", "Free Software"],
+	"categories": [],
+	"series": [],
+	"description": "Minecraft mod that gives you torches that show you the way back.",
+	"content": "Go into a cave using these torches and you will always know where the exit is.\nThese torches will illuminate the same as a regular one but will also point to the previously placed torch, that way when exploring a cave you will always know how to return to the entrance.\n"
+},
+{
 	"uri": "https://alejandrocoria.games/projects/AutoPresetMap/",
 	"title": "Auto​Preset​Map",
 	"tags": ["Minecraft Mod", "Map", "Addon", "Java", "Free Software"],
